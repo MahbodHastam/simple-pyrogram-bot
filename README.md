@@ -26,6 +26,6 @@ $ python3 main.py
 ## 📿 Usage
 | Command | Description |
 |---|---|
-| /on | Turn on your bot |
-| /off | Turn off your bot |
-| /status | Shows status of your bot |
+| /on | Turn on |
+| /off | Turn off |
+| /status | Shows status |
