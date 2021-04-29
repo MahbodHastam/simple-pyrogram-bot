@@ -29,3 +29,6 @@ $ python3 main.py
 | /on | Turn on your bot |
 | /off | Turn off your bot |
 | /status | Shows status of your bot |
+| /setid DibDmini | Set friend's ID |
+| /setmsg "I Love Potato 🥔" | Set message |
+| /send | Send your message (👆) to your friend |
