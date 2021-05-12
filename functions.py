@@ -1,7 +1,6 @@
 def createFile(path, data):
-  file = open(path, 'w')
-  file.write(data)
-  file.close()
+  with open(path, 'w') as file:
+    file.write(data)
 
 def openFile(path):
   return open(path, 'r').readline()
